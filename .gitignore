@@ -1,0 +1,36 @@
+# Visual Studio & C++ artifacts
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.db
+*.opendb
+
+# Build outputs
+x64/
+x86/
+ARM64/
+Debug/
+Release/
+bin/
+obj/
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.recipe
+
+# Editor & OS artifacts
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
